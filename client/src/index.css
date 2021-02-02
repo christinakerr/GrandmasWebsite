@@ -5,9 +5,31 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #0063B2FF !important;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.wordButton {
+  background-color: #9CC3D5FF;
+  border: none;
+  color: black;
+  margin: 5px;
+  padding: 10px;
+  box-shadow: 0px 8px 15px 0px rgba(0,0,0,0.37);
+}
+
+.wordCard {
+  background-color: #0063B2FF !important;
+  border: none !important;
+}
+
+.header {
+  color: white;
+  margin: 15px;
+}
+
+

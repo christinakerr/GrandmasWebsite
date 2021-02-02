@@ -5,6 +5,7 @@ function WordCard(props){
 
     // Play audio when word is clicked
     let wordAudio = new Audio(props.audio)
+    wordAudio.crossOrigin = "anonymous";
     const play = () => {
         wordAudio.play()
         .then(console.log("Working"))
@@ -13,9 +14,9 @@ function WordCard(props){
 
     return (
         <>
-        <Card >
-            <button onClick={play}>
-                <h1>{props.word}</h1>
+        <Card className="wordCard">
+            <button className="wordButton" onClick={play}>
+                <h2>{props.word}</h2>
             </button>
             
         </Card>
