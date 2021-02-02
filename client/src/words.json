@@ -1,7 +1,362 @@
 [
     {
-        "word": "Chicken",
+        "word": "Fried Chicken",
         "audio": "/static/media/chicken.504fdad5.mp3",
-        "id": 1
+        "id": 1,
+        "category": "food"
+    },
+    {
+        "word": "Enchilada",
+        "audio": "",
+        "id": 2,
+        "category": "food"
+    },
+    {
+        "word": "Quesadilla",
+        "audio": "",
+        "id": 3,
+        "category": "food"
+    },
+    {
+        "word": "Tortilla",
+        "audio": "",
+        "id": 4,
+        "category": "food"
+    },
+    {
+        "word": "Broccoli",
+        "audio": "",
+        "id": 5,
+        "category": "food"
+    },
+    {
+        "word": "Cacciatore",
+        "audio": "",
+        "id": 6,
+        "category": "food"
+    },
+    {
+        "word": "Italian",
+        "audio": "",
+        "id": 7,
+        "category": "food"
+    },
+    {
+        "word": "Fajitas",
+        "audio": "",
+        "id": 8,
+        "category": "food"
+    },
+    {
+        "word": "Asian",
+        "audio": "",
+        "id": 9,
+        "category": "food"
+    },
+    {
+        "word": "Teriyaki",
+        "audio": "",
+        "id": 10,
+        "category": "food"
+    },
+    {
+        "word": "Pozole",
+        "audio": "",
+        "id": 11,
+        "category": "food"
+    },
+    {
+        "word": "Philly",
+        "audio": "",
+        "id": 12,
+        "category": "food"
+    },
+    {
+        "word": "Cordon Bleu",
+        "audio": "",
+        "id": 13,
+        "category": "food"
+    },
+    {
+        "word": "Parmesan Piccata",
+        "audio": "",
+        "id": 14,
+        "category": "food"
+    },
+    {
+        "word": "Fiesta",
+        "audio": "",
+        "id": 15,
+        "category": "food"
+    },
+    {
+        "word": "Amanda",
+        "audio": "",
+        "id": 16,
+        "category": "people"
+    },
+    {
+        "word": "Monica",
+        "audio": "",
+        "id": 17,
+        "category": "people"
+    },
+    {
+        "word": "Carol",
+        "audio": "",
+        "id": 18,
+        "category": "people"
+    },
+    {
+        "word": "Phyl",
+        "audio": "",
+        "id": 19,
+        "category": "people"
+    },
+    {
+        "word": "Iris",
+        "audio": "",
+        "id": 20,
+        "category": "people"
+    },
+    {
+        "word": "Janet",
+        "audio": "",
+        "id": 21,
+        "category": "people"
+    },
+    {
+        "word": "Julie",
+        "audio": "",
+        "id": 22,
+        "category": "people"
+    },
+    {
+        "word": "Kinnley",
+        "audio": "",
+        "id": 23,
+        "category": "people"
+    },
+    {
+        "word": "Gunner",
+        "audio": "",
+        "id": 24,
+        "category": "people"
+    },
+    {
+        "word": "Paisley",
+        "audio": "",
+        "id": 25,
+        "category": "people"
+    },
+    {
+        "word": "Erica",
+        "audio": "",
+        "id": 26,
+        "category": "people"
+    },
+    {
+        "word": "Rick",
+        "audio": "",
+        "id": 27,
+        "category": "people"
+    },
+    {
+        "word": "Roberto",
+        "audio": "",
+        "id": 28,
+        "category": "people"
+    },
+    {
+        "word": "Ashley",
+        "audio": "",
+        "id": 29,
+        "category": "people"
+    },
+    {
+        "word": "Sheila",
+        "audio": "",
+        "id": 30,
+        "category": "people"
+    },
+    {
+        "word": "COVID",
+        "audio": "",
+        "id": 31,
+        "category": "medical"
+    },
+    {
+        "word": "Vaccine",
+        "audio": "",
+        "id": 32,
+        "category": "medical"
+    },
+    {
+        "word": "Prism",
+        "audio": "",
+        "id": 33,
+        "category": "medical"
+    },
+    {
+        "word": "Cardiologist",
+        "audio": "",
+        "id": 34,
+        "category": "medical"
+    },
+    {
+        "word": "Hearing Aid",
+        "audio": "",
+        "id": 35,
+        "category": "medical"
+    },
+    {
+        "word": "Pellegrini",
+        "audio": "",
+        "id": 36,
+        "category": "medical"
+    },
+    {
+        "word": "Medicine",
+        "audio": "",
+        "id": 37,
+        "category": "medical"
+    },
+    {
+        "word": "Vitamins",
+        "audio": "",
+        "id": 38,
+        "category": "medical"
+    },
+    {
+        "word": "Doctor",
+        "audio": "",
+        "id": 39,
+        "category": "medical"
+    },
+    {
+        "word": "Blood Work",
+        "audio": "",
+        "id": 40,
+        "category": "medical"
+    },
+    {
+        "word": "Governor Abbott",
+        "audio": "",
+        "id": 41,
+        "category": "misc"
+    },
+    {
+        "word": "Breakfast",
+        "audio": "",
+        "id": 42,
+        "category": "misc"
+    },
+    {
+        "word": "Lunch",
+        "audio": "",
+        "id": 43,
+        "category": "misc"
+    },
+    {
+        "word": "Dinner",
+        "audio": "",
+        "id": 44,
+        "category": "misc"
+    },
+    {
+        "word": "Dining Room",
+        "audio": "",
+        "id": 45,
+        "category": "misc"
+    },
+    {
+        "word": "Mail Box",
+        "audio": "",
+        "id": 46,
+        "category": "misc"
+    },
+    {
+        "word": "Parking Garage",
+        "audio": "",
+        "id": 47,
+        "category": "misc"
+    },
+    {
+        "word": "Church",
+        "audio": "",
+        "id": 48,
+        "category": "misc"
+    },
+    {
+        "word": "Chick fil A",
+        "audio": "",
+        "id": 49,
+        "category": "misc"
+    },
+    {
+        "word": "Whataburger",
+        "audio": "",
+        "id": 50,
+        "category": "misc"
+    },
+    {
+        "word": "Austin",
+        "audio": "",
+        "id": 51,
+        "category": "places"
+    },
+    {
+        "word": "Georgetown",
+        "audio": "",
+        "id": 52,
+        "category": "places"
+    },
+    {
+        "word": "Marble Falls",
+        "audio": "",
+        "id": 53,
+        "category": "places"
+    },
+    {
+        "word": "Franklin",
+        "audio": "",
+        "id": 54,
+        "category": "places"
+    },
+    {
+        "word": "Marquez",
+        "audio": "",
+        "id": 55,
+        "category": "places"
+    },
+    {
+        "word": "New Baden",
+        "audio": "",
+        "id": 56,
+        "category": "places"
+    },
+    {
+        "word": "Rockport",
+        "audio": "",
+        "id": 57,
+        "category": "places"
+    },
+    {
+        "word": "Houston",
+        "audio": "",
+        "id": 58,
+        "category": "places"
+    },
+    {
+        "word": "Pasadena",
+        "audio": "",
+        "id": 59,
+        "category": "places"
+    },
+    {
+        "word": "Liberty Hill",
+        "audio": "",
+        "id": 60,
+        "category": "places"
     }
 ]
