@@ -1,30 +1,43 @@
 {
-  "name": "grandmaswebsite",
-  "version": "1.0.0",
-  "description": "My grandma has aphasia, which means she struggles with pronouncing words. This website will list words and recordings of those words so that she can practice.",
-  "main": "index.js",
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
-    "bootstrap": "^4.5.3",
+    "@testing-library/jest-dom": "^5.11.6",
+    "@testing-library/react": "^11.2.2",
+    "@testing-library/user-event": "^12.6.0",
+    "bootstrap": "^4.6.0",
+    "gh-pages": "^3.1.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "reactstrap": "^8.8.1"
-  },
-  "devDependencies": {
-    "gh-pages": "^3.1.0"
+    "react-scripts": "4.0.1",
+    "reactstrap": "^8.9.0",
+    "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/christinakerr/GrandmasWebsite.git"
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/christinakerr/GrandmasWebsite/issues"
-  },
-  "homepage": "https://github.com/christinakerr/GrandmasWebsite#readme"
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
 }
