@@ -1,5 +1,6 @@
 import React from "react";
 import { Card } from "reactstrap";
+// import friedChicken from "../audio/fried-chicken.mp3"
 
 function WordCard(props){
 

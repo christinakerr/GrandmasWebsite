@@ -1,0 +1,26 @@
+{
+  "name": "grandmaswebsite",
+  "version": "1.0.0",
+  "description": "My grandma has aphasia, which means she struggles with pronouncing words. This website will list words and recordings of those words so that she can practice.",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "reactstrap": "^8.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christinakerr/GrandmasWebsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christinakerr/GrandmasWebsite/issues"
+  },
+  "homepage": "https://github.com/christinakerr/GrandmasWebsite#readme"
+}

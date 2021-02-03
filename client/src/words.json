@@ -1,7 +1,7 @@
 [
     {
         "word": "Fried Chicken",
-        "audio": "../audio/fried-chicken.mp3",
+        "audio": "../../audio/fried-chicken.mp3",
         "id": 1,
         "category": "food"
     },
