@@ -1,6 +1,5 @@
 import React from "react";
 import { Card } from "reactstrap";
-// import friedChicken from "../audio/fried-chicken.mp3"
 
 function WordCard(props){
 
@@ -8,7 +7,6 @@ function WordCard(props){
     let wordAudio = new Audio(props.audio)
     const play = () => {
         wordAudio.play()
-        .then(console.log("Working"))
         .catch(err => console.log(err))
     }
 
