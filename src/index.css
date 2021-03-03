@@ -21,6 +21,9 @@ code {
   padding: 10px;
   box-shadow: 0px 8px 15px 0px rgba(0,0,0,0.37);
 }
+.wordButton:focus, .wordButton:active {
+  background-color: #D3DBDF;
+}
 
 .wordCard {
   background-color: #0063B2FF !important;
