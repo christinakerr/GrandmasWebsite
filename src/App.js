@@ -15,19 +15,19 @@ function App() {
       <Tabs>
         <TabList>
           <Tab>
-            <h1 className="header">Food</h1>
+            <h2 className="header">Food</h2>
           </Tab>
           <Tab>
-            <h1 className="header">People</h1>
+            <h2 className="header">People</h2>
           </Tab>
           <Tab>
-            <h1 className="header">Medical</h1>
+            <h2 className="header">Medical</h2>
           </Tab>
           <Tab>
-            <h1 className="header">Places</h1>
+            <h2 className="header">Places</h2>
           </Tab>
           <Tab>
-            <h1 className="header">Miscellaneous</h1>
+            <h2 className="header">Miscellaneous</h2>
           </Tab>
         </TabList>
 

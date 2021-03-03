@@ -32,4 +32,11 @@ code {
   margin: 15px;
 }
 
+.react-tabs__tab--selected{
+  background-color:#014175 !important;
+  border: none !important;
+  border-radius: 15px 15px 0 0 !important;
+  margin: 10px 10px 2px 10px;
+}
+
 
