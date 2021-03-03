@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/GrandmasWebsite/static/css/main.d5d3390a.chunk.css",
-    "main.js": "/GrandmasWebsite/static/js/main.63b00694.chunk.js",
-    "main.js.map": "/GrandmasWebsite/static/js/main.63b00694.chunk.js.map",
-    "runtime-main.js": "/GrandmasWebsite/static/js/runtime-main.ffb3cf31.js",
-    "runtime-main.js.map": "/GrandmasWebsite/static/js/runtime-main.ffb3cf31.js.map",
-    "static/css/2.325dfaf0.chunk.css": "/GrandmasWebsite/static/css/2.325dfaf0.chunk.css",
-    "static/js/2.36ff9ebc.chunk.js": "/GrandmasWebsite/static/js/2.36ff9ebc.chunk.js",
-    "static/js/2.36ff9ebc.chunk.js.map": "/GrandmasWebsite/static/js/2.36ff9ebc.chunk.js.map",
-    "static/js/3.1277e98b.chunk.js": "/GrandmasWebsite/static/js/3.1277e98b.chunk.js",
-    "static/js/3.1277e98b.chunk.js.map": "/GrandmasWebsite/static/js/3.1277e98b.chunk.js.map",
+    "main.css": "/GrandmasWebsite/static/css/main.dd157da6.chunk.css",
+    "main.js": "/GrandmasWebsite/static/js/main.6a638094.chunk.js",
+    "main.js.map": "/GrandmasWebsite/static/js/main.6a638094.chunk.js.map",
+    "runtime-main.js": "/GrandmasWebsite/static/js/runtime-main.1690b55b.js",
+    "runtime-main.js.map": "/GrandmasWebsite/static/js/runtime-main.1690b55b.js.map",
+    "static/css/2.788320b0.chunk.css": "/GrandmasWebsite/static/css/2.788320b0.chunk.css",
+    "static/js/2.d2ad6de4.chunk.js": "/GrandmasWebsite/static/js/2.d2ad6de4.chunk.js",
+    "static/js/2.d2ad6de4.chunk.js.map": "/GrandmasWebsite/static/js/2.d2ad6de4.chunk.js.map",
+    "static/js/3.715c56a2.chunk.js": "/GrandmasWebsite/static/js/3.715c56a2.chunk.js",
+    "static/js/3.715c56a2.chunk.js.map": "/GrandmasWebsite/static/js/3.715c56a2.chunk.js.map",
     "index.html": "/GrandmasWebsite/index.html",
-    "static/css/2.325dfaf0.chunk.css.map": "/GrandmasWebsite/static/css/2.325dfaf0.chunk.css.map",
-    "static/css/main.d5d3390a.chunk.css.map": "/GrandmasWebsite/static/css/main.d5d3390a.chunk.css.map",
-    "static/js/2.36ff9ebc.chunk.js.LICENSE.txt": "/GrandmasWebsite/static/js/2.36ff9ebc.chunk.js.LICENSE.txt"
+    "static/css/2.788320b0.chunk.css.map": "/GrandmasWebsite/static/css/2.788320b0.chunk.css.map",
+    "static/css/main.dd157da6.chunk.css.map": "/GrandmasWebsite/static/css/main.dd157da6.chunk.css.map",
+    "static/js/2.d2ad6de4.chunk.js.LICENSE.txt": "/GrandmasWebsite/static/js/2.d2ad6de4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ffb3cf31.js",
-    "static/css/2.325dfaf0.chunk.css",
-    "static/js/2.36ff9ebc.chunk.js",
-    "static/css/main.d5d3390a.chunk.css",
-    "static/js/main.63b00694.chunk.js"
+    "static/js/runtime-main.1690b55b.js",
+    "static/css/2.788320b0.chunk.css",
+    "static/js/2.d2ad6de4.chunk.js",
+    "static/css/main.dd157da6.chunk.css",
+    "static/js/main.6a638094.chunk.js"
   ]
 }
