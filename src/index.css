@@ -13,7 +13,7 @@ code {
     monospace;
 }
 
-.wordButton {
+/* .wordButton {
   background-color: #9CC3D5FF;
   border: none;
   color: black;
@@ -22,17 +22,16 @@ code {
   box-shadow: 0px 8px 15px 0px rgba(0,0,0,0.37);
 
 }
-.card{
-  float: left;
-  width: 33%;
-}
 .wordButton:focus, .wordButton:active {
   background-color: #D3DBDF;
-}
+} */
+
 
 .wordCard {
   background-color: #0063B2FF !important;
   border: none !important;
+  float: left;
+  width: 33%;
 }
 
 .header {
