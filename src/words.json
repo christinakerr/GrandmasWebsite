@@ -162,6 +162,24 @@
         "category": "people"
     },
     {
+        "word": "Christian",
+        "audio": "https://od.lk/s/NjNfMjE0OTIwMjZf/christian.mp3",
+        "id": 60,
+        "category": "people"
+    },
+    {
+        "word": "Kenneth",
+        "audio": "https://od.lk/s/NjNfMjE0OTIwMjZf/kenneth.mp3",
+        "id": 61,
+        "category": "people"
+    },
+    {
+        "word": "Chaplain",
+        "audio": "https://od.lk/s/NjNfMjE0OTIwMjZf/chaplain.mp3",
+        "id": 67,
+        "category": "people"
+    },
+    {
         "word": "COVID",
         "audio": "https://od.lk/s/NjNfMjE0OTE5ODJf/covid.mp3",
         "id": 31,
@@ -171,6 +189,12 @@
         "word": "Vaccine",
         "audio": "https://od.lk/s/NjNfMjE0OTIwMjlf/vaccine.mp3",
         "id": 32,
+        "category": "medical"
+    },
+    {
+        "word": "Vaccination",
+        "audio": "https://od.lk/s/NjNfMjE0OTIwMjlf/vaccination.mp3",
+        "id": 62,
         "category": "medical"
     },
     {
@@ -213,6 +237,12 @@
         "word": "Doctor",
         "audio": "https://od.lk/s/NjNfMjE0OTE5ODVf/doctor.mp3",
         "id": 39,
+        "category": "medical"
+    },
+    {
+        "word": "Microphone",
+        "audio": "https://od.lk/s/NjNfMjE0OTIwMjlf/microphone.mp3",
+        "id": 63,
         "category": "medical"
     },
     {
@@ -309,6 +339,24 @@
         "word": "New Baden",
         "audio": "https://od.lk/s/NjNfMjE0OTIwMTFf/new-baden.mp3",
         "id": 56,
+        "category": "places"
+    },
+    {
+        "word": "Burnet",
+        "audio": "https://od.lk/s/NjNfMjE0OTIwMTFf/burnet.mp3",
+        "id": 64,
+        "category": "places"
+    },
+    {
+        "word": "Buckner",
+        "audio": "https://od.lk/s/NjNfMjE0OTIwMTFf/buckner.mp3",
+        "id": 65,
+        "category": "places"
+    },
+    {
+        "word": "Greenridge",
+        "audio": "https://od.lk/s/NjNfMjE0OTIwMTFf/greenridge.mp3",
+        "id": 66,
         "category": "places"
     },
     {
