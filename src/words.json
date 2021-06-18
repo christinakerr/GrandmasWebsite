@@ -60,24 +60,6 @@
         "category": "food"
     },
     {
-        "word": "Pozole",
-        "audio": "https://od.lk/s/NjNfMjE0OTIwMjBf/pozole.mp3",
-        "id": 11,
-        "category": "food"
-    },
-    {
-        "word": "Philly",
-        "audio": "https://od.lk/s/NjNfMjE0OTIwMTdf/philly.mp3",
-        "id": 12,
-        "category": "food"
-    },
-    {
-        "word": "Cordon Bleu",
-        "audio": "https://od.lk/s/NjNfMjE0OTE5ODFf/cordon-bleu.mp3",
-        "id": 13,
-        "category": "food"
-    },
-    {
         "word": "Parmesan Piccata",
         "audio": "https://od.lk/s/NjNfMjE0OTIwMTRf/parmesan-piccata.mp3",
         "id": 14,
@@ -234,12 +216,6 @@
         "category": "medical"
     },
     {
-        "word": "Blood Work",
-        "audio": "https://od.lk/s/NjNfMjE0OTE5Njlf/blood-work.mp3",
-        "id": 40,
-        "category": "medical"
-    },
-    {
         "word": "Governor Abbott",
         "audio": "https://od.lk/s/NjNfMjE0OTE5OTRf/governor-abbott.mp3",
         "id": 41,
@@ -351,12 +327,6 @@
         "word": "Pasadena",
         "audio": "https://od.lk/s/NjNfMjE0OTIwMTVf/pasadena.mp3",
         "id": 59,
-        "category": "places"
-    },
-    {
-        "word": "Liberty Hill",
-        "audio": "https://od.lk/s/NjNfMjE0OTIwMDRf/liberty-hill.mp3",
-        "id": 60,
         "category": "places"
     }
 ]
