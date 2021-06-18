@@ -19,7 +19,7 @@
     },
     {
         "word": "Tortilla",
-        "audio": "https://od.lk/s/NjNfMjE0OTIwMjhf/tortilla.mp3",
+        "audio": "https://od.lk/s/NjNfMjI0NjU5MTRf/tortilla2.mp3",
         "id": 4,
         "category": "food"
     },
@@ -163,19 +163,19 @@
     },
     {
         "word": "Christian",
-        "audio": "https://od.lk/s/NjNfMjE0OTIwMjZf/christian.mp3",
+        "audio": "https://od.lk/s/NjNfMjI0NjE5Mzhf/christian.mp3",
         "id": 60,
         "category": "people"
     },
     {
         "word": "Kenneth",
-        "audio": "https://od.lk/s/NjNfMjE0OTIwMjZf/kenneth.mp3",
+        "audio": "https://od.lk/s/NjNfMjI0NjIwOTVf/kenneth.mp3",
         "id": 61,
         "category": "people"
     },
     {
         "word": "Chaplain",
-        "audio": "https://od.lk/s/NjNfMjE0OTIwMjZf/chaplain.mp3",
+        "audio": "https://od.lk/s/NjNfMjI0NjE5MTlf/chaplain.mp3",
         "id": 67,
         "category": "people"
     },
@@ -193,7 +193,7 @@
     },
     {
         "word": "Vaccination",
-        "audio": "https://od.lk/s/NjNfMjE0OTIwMjlf/vaccination.mp3",
+        "audio": "https://od.lk/s/NjNfMjI0NjIyNzlf/vaccination.mp3",
         "id": 62,
         "category": "medical"
     },
@@ -241,7 +241,7 @@
     },
     {
         "word": "Microphone",
-        "audio": "https://od.lk/s/NjNfMjE0OTIwMjlf/microphone.mp3",
+        "audio": "https://od.lk/s/NjNfMjI0NjIxNTRf/microphone.mp3",
         "id": 63,
         "category": "medical"
     },
@@ -277,7 +277,7 @@
     },
     {
         "word": "Mail Box",
-        "audio": "https://od.lk/s/NjNfMjE0OTIwMDZf/mail-box.mp3",
+        "audio": "https://od.lk/s/NjNfMjI0NjIxMjJf/mailbox.mp3",
         "id": 46,
         "category": "misc"
     },
@@ -343,19 +343,19 @@
     },
     {
         "word": "Burnet",
-        "audio": "https://od.lk/s/NjNfMjE0OTIwMTFf/burnet.mp3",
+        "audio": "https://od.lk/s/NjNfMjI0NjE4OTRf/burnet.mp3",
         "id": 64,
         "category": "places"
     },
     {
         "word": "Buckner",
-        "audio": "https://od.lk/s/NjNfMjE0OTIwMTFf/buckner.mp3",
+        "audio": "https://od.lk/s/NjNfMjI0NjE4OTFf/buckner.mp3",
         "id": 65,
         "category": "places"
     },
     {
         "word": "Greenridge",
-        "audio": "https://od.lk/s/NjNfMjE0OTIwMTFf/greenridge.mp3",
+        "audio": "https://od.lk/s/NjNfMjI0NjIwMzRf/greenridge.mp3",
         "id": 66,
         "category": "places"
     },

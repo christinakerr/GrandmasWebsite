@@ -13,7 +13,7 @@ const WordButton = styled.button`
     padding: 10px;
     box-shadow: 0px 8px 15px 0px rgba(0,0,0,0.37);
     :focus, :active {
-        background-color: #D3DBDF;
+        background-color: white;
     }
 `
 
